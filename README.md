@@ -4,7 +4,7 @@
 
 ############################################################
  
-# Nahamcon Slides 
+# NahamCon Slides 
 - https://github.com/403glitch/NahamCon-Slides-
 
 # VirSecCon Slides 
